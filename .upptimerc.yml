@@ -47,12 +47,13 @@ commitMessages:
 
 # Cấu hình schedule
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "0 0 * * *"        # 5 trường: phút giờ ngày tháng thứ
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
+  uptime: "*/5 * * * *"      # Và thêm uptime schedule
 
 # status-website:
 #   # Add your custom domain name, or remove the `cname` line if you don't have a domain

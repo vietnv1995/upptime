@@ -2,7 +2,7 @@
 
 <!--start: description-->
 
-**EZ Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. It's made with 💚 by [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com).
+**EZ Upptime Start** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. It's made with 💚 by [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com).
 
 > I find Upptime an incredible clever usage of \[GitHub Actions]. You essentially get a free configurable uptime monitor for whatever you want. – [CSS Tricks](https://css-tricks.com/upptime/)
 

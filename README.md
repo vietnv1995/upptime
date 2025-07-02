@@ -1,4 +1,5 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+<!-- Trigger workflows -->
 
 This repository contains the open-source uptime monitor and status page for [vietnv1995](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 

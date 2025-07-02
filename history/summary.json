@@ -4,18 +4,20 @@
     "url": "https://faceapi.mobidev.asia",
     "icon": "https://icons.duckduckgo.com/ip3/faceapi.mobidev.asia.ico",
     "slug": "api-ez-match-check-has-face",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 1330,
-    "timeWeek": 1330,
-    "timeMonth": 1330,
-    "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "95.80%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.80%",
+    "time": 1264,
+    "timeDay": 1264,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
+    "dailyMinutesDown": {
+      "2025-07-02": 28
+    }
   },
   {
     "name": "API Easy3P Main",

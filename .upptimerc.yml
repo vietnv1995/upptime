@@ -9,7 +9,7 @@ sites:
     maxResponseTime: 2000 # ms
     expectedStatus: 200
 
-  - name: API EZMatch Check HasFace
+  - name: API Easy3P Main
     url: https://api.easy3p.com
     method: GET
     maxResponseTime: 2000 # ms

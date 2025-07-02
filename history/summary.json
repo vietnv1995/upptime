@@ -1,6 +1,6 @@
 [
   {
-    "name": "API EZMatch Check Has Face",
+    "name": "API EZMatch Check HasFace",
     "url": "https://faceapi.mobidev.asia",
     "icon": "https://icons.duckduckgo.com/ip3/faceapi.mobidev.asia.ico",
     "slug": "api-ez-match-check-has-face",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2222,
-    "timeDay": 2222,
-    "timeWeek": 2222,
-    "timeMonth": 2222,
-    "timeYear": 2222,
+    "time": 1555,
+    "timeDay": 1555,
+    "timeWeek": 1555,
+    "timeMonth": 1555,
+    "timeYear": 1555,
     "dailyMinutesDown": {}
   }
 ]

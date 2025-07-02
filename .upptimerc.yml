@@ -41,8 +41,8 @@ notifications:
     webhook-url: $SLACK_WEBHOOK_URL
 
 # Assignees
-assignees:
-  - vietnv1995
+# assignees:
+#   - vietnv1995
 
 # Cấu hình commit messages  
 # commitMessages:

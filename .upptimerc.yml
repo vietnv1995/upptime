@@ -16,7 +16,7 @@ sites:
     expectedStatus: 200
     
   - name: Test Brocken
-    url: https://api.easy3p11.com
+    url: https://api.easy3p.com
     method: GET
     maxResponseTime: 2000 # ms
     expectedStatus: 200

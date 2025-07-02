@@ -39,11 +39,11 @@ assignees:
   - vietnv1995
 
 # Cấu hình commit messages  
-commitMessages:
-  readmeContent: ":pencil: Cập nhật tóm tắt trong README [skip ci] [upptime]"
-  summaryJson: ":card_file_box: Cập nhật tệp tóm tắt trạng thái [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME là $STATUS ($RESPONSE_CODE trong $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Cập nhật biểu đồ [skip ci] [upptime]"
+# commitMessages:
+#   readmeContent: ":pencil: Cập nhật tóm tắt trong README [skip ci] [upptime]"
+#   summaryJson: ":card_file_box: Cập nhật tệp tóm tắt trạng thái [skip ci] [upptime]"
+#   statusChange: "$EMOJI $SITE_NAME là $STATUS ($RESPONSE_CODE trong $RESPONSE_TIME ms) [skip ci] [upptime]"
+#   graphsUpdate: ":bento: Cập nhật biểu đồ [skip ci] [upptime]"
 
 # Cấu hình schedule
 workflowSchedule:

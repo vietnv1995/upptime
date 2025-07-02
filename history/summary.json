@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.easy3p11.com.ico",
     "slug": "test-brocken",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 26,
     "timeDay": 26,
     "timeWeek": 26,
     "timeMonth": 26,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-02": 0
+    }
   }
 ]

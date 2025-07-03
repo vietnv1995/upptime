@@ -14,12 +14,6 @@ sites:
     method: GET
     maxResponseTime: 2000 # ms
     expectedStatus: 200
-    
-  - name: Test Brocken
-    url: https://api.easy3p.com
-    method: GET
-    maxResponseTime: 2000 # ms
-    expectedStatus: 200
 
 # Cấu hình status website với baseUrl
 status-website:

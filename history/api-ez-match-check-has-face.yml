@@ -1,7 +1,7 @@
 url: https://faceapi.mobidev.asia
-status: degraded
+status: down
 code: 502
-responseTime: 2621
-lastUpdated: 2025-08-20T08:56:19.266Z
+responseTime: 1645
+lastUpdated: 2025-08-20T10:29:51.328Z
 startTime: 2025-07-02T05:30:29.010Z
 generator: Upptime <https://github.com/upptime/upptime>

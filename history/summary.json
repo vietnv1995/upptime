@@ -4,19 +4,18 @@
     "url": "https://faceapi.mobidev.asia",
     "icon": "https://icons.duckduckgo.com/ip3/faceapi.mobidev.asia.ico",
     "slug": "api-ez-match-check-has-face",
-    "status": "down",
-    "uptime": "85.20%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "87.00%",
-    "uptimeYear": "85.20%",
-    "time": 1897,
-    "timeDay": 5038,
-    "timeWeek": 2773,
-    "timeMonth": 2622,
-    "timeYear": 1897,
+    "status": "up",
+    "uptime": "85.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "85.33%",
+    "time": 1896,
+    "timeDay": 820,
+    "timeWeek": 2651,
+    "timeMonth": 2610,
+    "timeYear": 1896,
     "dailyMinutesDown": {
-      "2025-10-01": 12,
       "2025-09-29": 31,
       "2025-09-28": 18,
       "2025-09-26": 23,
@@ -75,7 +74,7 @@
       "2025-07-25": 83,
       "2025-07-24": 71,
       "2025-07-23": 124,
-      "2025-07-22": 35
+      "2025-07-22": 50
     }
   },
   {
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 237,
-    "timeWeek": 256,
-    "timeMonth": 248,
-    "timeYear": 232,
+    "time": 233,
+    "timeDay": 290,
+    "timeWeek": 261,
+    "timeMonth": 247,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]

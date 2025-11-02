@@ -6,17 +6,17 @@
     "slug": "api-ez-match-check-has-face",
     "status": "up",
     "uptime": "89.11%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "89.11%",
-    "time": 2035,
-    "timeDay": 801,
-    "timeWeek": 3449,
-    "timeMonth": 2786,
-    "timeYear": 2035,
+    "time": 2032,
+    "timeDay": 803,
+    "timeWeek": 3451,
+    "timeMonth": 2774,
+    "timeYear": 2032,
     "dailyMinutesDown": {
-      "2025-11-01": 27,
+      "2025-11-01": 16,
       "2025-10-30": 16,
       "2025-10-28": 53,
       "2025-10-27": 48,
@@ -82,7 +82,7 @@
       "2025-08-05": 146,
       "2025-08-04": 150,
       "2025-08-03": 43,
-      "2025-08-02": 43
+      "2025-08-02": 68
     }
   },
   {
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 173,
-    "timeWeek": 240,
-    "timeMonth": 250,
+    "timeDay": 244,
+    "timeWeek": 227,
+    "timeMonth": 248,
     "timeYear": 237,
     "dailyMinutesDown": {}
   }

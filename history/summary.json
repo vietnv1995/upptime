@@ -105,19 +105,19 @@
     "url": "https://api.easy3p.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.easy3p.com.ico",
     "slug": "api-easy3-p-main",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 168,
-    "timeWeek": 259,
-    "timeMonth": 263,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 245,
+    "timeDay": 173,
+    "timeWeek": 249,
+    "timeMonth": 260,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-12-30": 0
+      "2025-12-30": 26
     }
   }
 ]
